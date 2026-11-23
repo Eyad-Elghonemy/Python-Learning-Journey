@@ -135,5 +135,5 @@ jupyter notebook
 ---
 
 <div align="center">
-<sub>⭐ Feel free to explore — this repo is mainly for my own tracking of progress, but hopefully useful for anyone learning Python too.</sub>
+<sub>Feel free to explore — this repo is mainly for my own tracking of progress, but hopefully useful for anyone learning Python too.</sub>
 </div>
